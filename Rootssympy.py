@@ -1,4 +1,4 @@
-# By KratosFury, Mar2025
+# By Kratos, Mar2025
 #Root Finding using Python "Sympy" - Algebraic Method for Exact solutions
 
 #Single Non Linear Equation
