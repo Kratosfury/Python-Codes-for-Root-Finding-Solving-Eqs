@@ -1,3 +1,4 @@
+# By KratosFury, Mar2025
 # Single Non Linear Equation - Cubic
 # Newton Raphson Method to find Roots
 # Only One root will be found
